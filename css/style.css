@@ -130,6 +130,148 @@ ul{
 
 
 /* info start */
+/* .info {
+    width: 1440px;
+    height: 1585px;
+}
+ */
+ .info__product-text {
+    font-family: 'Roboto';
+    font-size: 40px;
+    font-weight: 400;
+    color:#692340 ;
+
+}
+
+.info__product-word {
+    font-family: 'Roboto';
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 21.6px;
+    color: #692340;
+    padding-top: 22px;
+
+}
+
+.info__product-word1 {
+    font-family: 'Roboto';
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 21.6px;
+    color: #692340;
+    padding-top: 13px;
+    padding-left: 7px;
+}
+.info__product-word2 {
+    font-family: 'Roboto';
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 21.6px;
+    color: #692340;
+    padding-left: 7px;
+}
+.info__product-word3 {
+    font-family: 'Roboto';
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 21.6px;
+    color: #692340;
+    padding-left: 7px;
+}
+
+.info__product-word4 {
+    font-family: 'Roboto';
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 21.6px;
+    color: #692340;
+    padding-top: 16px;
+}
+
+.container1 {
+    width: 1035px;
+    display: flex;
+  margin: auto;
+ 
+
+}
+
+
+
+.info {
+    width: 1440px;
+    height: 1585px;
+    margin-top: 2466px;
+
+}
+
+.info__img {
+    width: 340px;
+    height: 380px;
+    margin-top: 101px;
+    margin-left: 94px;
+
+}
+
+.product {
+   margin-top: 180px;
+   margin-left: 80.5px;
+   margin-right: 94px;
+
+}
+
+
+.product1 {
+    /* margin-top: 134px; */
+margin-right: 79px;
+margin-left: 80.5px;
+}
+
+.product__logo {
+    margin-top: 134px;
+    width: 140px;
+    height: 48px;
+    margin-bottom: 21.5px;
+}
+
+
+.info__img1 {
+    margin-top: 134px;
+
+    width: 340px;
+    height: 380px;
+    /* margin-top: 67px; */
+    margin-left: 79px;
+} 
+
+
+.info__product-text1 {
+    font-family: 'Roboto';
+    font-size: 40px;
+    font-weight: 400;
+    line-height: 44px;
+    color: #692340;
+    margin-bottom: 22px;
+    margin-top: 21.5px;
+}
+
+.container2 {
+    width: 1035px;
+    display: flex;
+  margin: auto;
+
+
+}
+.info__product-word5 {
+    font-family: 'Roboto';
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 21.6px;
+    color: #692340;
+margin-top: 11px;
+
+}
+
 
 
 
@@ -137,7 +279,23 @@ ul{
 /* info end */
 
 
+
+
+
+
+
+
+
+
+
 /* slider start */
+
+
+
+
+
+
+
 
 
 
