@@ -309,10 +309,66 @@ margin-top: 11px;
 
 
 /* already end */
-
-
-
-
+.already{
+    max-width: 1440px;
+    height: 600px;
+    /* width: 100%; */
+    background: #FBEECA;
+    border-radius: 0px;
+    
+}
+.already__good{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    /* padding: 0 0 37px 0;
+    row-gap: 100px; */
+}
+.already__good-title{
+    max-width: 829px;
+    /* width: 100%; */
+    font-family: 'Roboto';
+font-weight: 700;
+font-size: 51px;
+line-height: 54px;
+text-align: center;
+letter-spacing: 0.5px;
+color: #692340;
+padding: 116px 0 37px;
+}
+.already__good-text{
+    max-width: 860px;
+    /* width: 100%; */
+    font-family: 'Roboto';
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+text-align: center;
+color: #692340;
+padding: 37px 0 47px;
+}
+.already__good__content-btn{
+    max-width: 145px;
+    /* width: 100%; */
+    font-family: 'Roboto';
+font-weight: 700;
+font-size: 15px;
+line-height: 20px;
+text-align: center;
+color: #692340;
+background: #FBEECA;
+border: 1px solid #692340;
+box-shadow: 0px 0px 0px rgba(105, 35, 64, 0.4);
+border-radius: 0px;
+transition: .5s;
+padding: 20px 40px 19px;
+}
+.already__good__content-btn:hover{
+    background: #692340;
+    color: #FBEECA;
+}
 /* community start */
 
 
